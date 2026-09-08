@@ -1,12 +1,13 @@
-# Nome do Projeto
+# Projeto de DS
 
-Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas frases já bastam.
+Sistema de prontuário eletrônico para registro, consulta e acompanhamento do histórico clínico de pacientes. Permite que profissionais de saúde cadastrem atendimentos, prescrições e exames de forma centralizada e segura.
 
 ## Tecnologias
 
-- Linguagem/framework principal
-- Biblioteca X
-- Ferramenta Y
+- React
+- Java Script
+- Outras a serem comentadas posteriormente
+
 
 ## Como Usar GitHub em conjunto com VsCode
 
@@ -17,6 +18,11 @@ Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas 
 5. No terminal do VsCode, digitar o comando: "git add." - Adiciona todas as mudanças feitas na branch ao codigo
 6. No terminal do VsCode, digitar o comando: "git commit -m "COMENTARIO" - Usado para descrever as alterações
 
+```bash
+git clone https://github.com/lvmp/Projeto-Monitoria-DS
+cd prontu
+npm install
+```
 
 Crie um arquivo `.env` na raiz seguindo o modelo do `.env.example`.
 
@@ -28,7 +34,7 @@ npm run dev
 
 A aplicação sobe em `http://localhost:3000`.
 
-## Estrutura
+## Estruturagit checkout -b nome-da-sua-branch
 
 ```
 projeto/
@@ -54,4 +60,6 @@ projeto/
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Este projeto está sob a licença MIT.
+Essa licença diz que o código é público para todas as pessoas desde que creditem a gente.
+Esse é um código apenas de treinamento e é completamente público para todos.
