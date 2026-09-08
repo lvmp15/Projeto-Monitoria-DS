@@ -6,7 +6,7 @@ Sistema de prontuário eletrônico para registro, consulta e acompanhamento do h
 
 - React
 - Java Script
-- Ferramenta Y
+- Outras a serem comentadas posteriormente
 
 
 ## Instalação
