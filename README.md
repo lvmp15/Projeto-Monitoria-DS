@@ -6,7 +6,7 @@ Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas 
 
 - React
 - Java Script
-- Ferramenta Y
+- Outras a serem comentadas posteriormente
 
 ## Instalação
 
