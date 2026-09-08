@@ -1,6 +1,6 @@
-# Nome do Projeto
+# Projeto de DS
 
-Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas frases já bastam.
+Sistema de prontuário eletrônico para registro, consulta e acompanhamento do histórico clínico de pacientes. Permite que profissionais de saúde cadastrem atendimentos, prescrições e exames de forma centralizada e segura.
 
 ## Tecnologias
 
@@ -11,7 +11,7 @@ Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas 
 ## Instalação
 
 ```bash
-git clone https://github.com/usuario/projeto.git
+git clone https://github.com/lvmp15/Projeto-Monitoria-DS.git
 cd projeto
 npm install
 ```
