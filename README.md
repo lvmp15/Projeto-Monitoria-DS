@@ -5,7 +5,7 @@ Sistema de prontuário eletrônico para registro, consulta e acompanhamento do h
 ## Tecnologias
 
 - React
-- Biblioteca X
+- Java Script
 - Ferramenta Y
 
 
