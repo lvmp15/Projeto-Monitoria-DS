@@ -4,7 +4,7 @@ Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas 
 
 ## Tecnologias
 
-- Linguagem/framework principal
+- React
 - Biblioteca X
 - Ferramenta Y
 
@@ -26,7 +26,7 @@ npm run dev
 
 A aplicação sobe em `http://localhost:3000`.
 
-## Estrutura
+## Estruturagit checkout -b nome-da-sua-branch
 
 ```
 projeto/
