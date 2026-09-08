@@ -48,4 +48,6 @@ projeto/
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Este projeto está sob a licença MIT.
+Essa licença diz que o código é público para todas as pessoas desde que creditem a gente.
+Esse é um código apenas de treinamento e é completamente público para todos.
