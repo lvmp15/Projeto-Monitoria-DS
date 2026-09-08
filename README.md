@@ -8,11 +8,12 @@ Sistema de prontuário eletrônico para registro, consulta e acompanhamento do h
 - Biblioteca X
 - Ferramenta Y
 
+
 ## Instalação
 
 ```bash
-git clone https://github.com/lvmp15/Projeto-Monitoria-DS.git
-cd projeto
+git clone https://github.com/lvmp/Projeto-Monitoria-DS
+cd prontu
 npm install
 ```
 
