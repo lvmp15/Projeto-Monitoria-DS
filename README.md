@@ -5,7 +5,7 @@ Breve descrição do que o projeto faz e qual problema ele resolve. Uma ou duas 
 ## Tecnologias
 
 - React
-- Biblioteca X
+- Java Script
 - Ferramenta Y
 
 ## Instalação
